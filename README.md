@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/SoloAi.png" alt="SoloAi logo" width="500">
+  <img src="SoloAi.png" alt="SoloAi logo" width="500">
 </p>
 
 
